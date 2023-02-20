@@ -143,15 +143,12 @@ class Msc():
 
                 # result is a list with three elements and its elements have type list
                 result.append(thm)
-                m -= len(thm)     # adjusted the length of slices taken into account
  
             # save the cluster in each mode
             Result.append(result)
             Similarity.append(similarity)
             j += 1
   
-
-
 
         return Result, cij, Similarity
 

@@ -7,9 +7,9 @@ This code implements the extension of the multi-slice clustering algorithm [1]. 
 
 Let $\mathcal{T} \in \mathbb{R}^{m_1\times m_2\times m_3}$  the tensor dataset, defined by $\mathcal{T} = \mathcal{X} + \mathcal{Z}$ where $\mathcal{X}$ is the signal tensor and $\mathcal{Z}$ is the noise tensor. We assume that
 
-\begin{equation}
+$$
 \mathcal{T} = \mathcal{X} + \mathcal{Z} = \sum_{i = 1}^{r}\gamma_i\, \mathbf{w}_{i}\otimes \mathbf{u}_{i}\otimes\mathbf{v}_{i} + \mathcal{Z}
-\end{equation}
+$$
 
 With $r=2$, the similarity matrix of the slices in one mode seems as in the picture below:
 

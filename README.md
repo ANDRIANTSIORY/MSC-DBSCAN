@@ -38,7 +38,7 @@ We also evaluate the quality of the clustering result according to the value of 
 ```python
 import Ari_mscDbscan
 a = Ari_mscDbscan.run()
-ari_plot(a[0], a[1])
+Ari_mscDbscan.ari_plot(a[0], a[1])
 ```
 
 The last experiment show the similarity of the output of  MSC and MSC-DBSCAN with the flow injection analysis (FIA) dataset [2].

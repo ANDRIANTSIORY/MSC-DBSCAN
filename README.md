@@ -50,6 +50,6 @@ experiment_fia_data.run()
 
 
 
-[1] D. F. Andriantsiory, J. B. Geloun, and M. Lebbah, “Multi-slice clustering for 3-order tensor,” in 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2021, pp. 173–178.
+[1] D. F. Andriantsiory, J. Ben Geloun, and M. Lebbah, “Multi-slice clustering for 3-order tensor,” in 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2021, pp. 173–178.
 
 [2] R. C. Norgaard L, “Rank annihilation factor analysis applied to flow injection analysis with photodiode-array detection,” 1994, chemometrics and Intelligent Laboratory, Systems 23:107.
